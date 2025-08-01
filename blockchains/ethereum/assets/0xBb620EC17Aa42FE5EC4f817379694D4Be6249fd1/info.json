@@ -1,0 +1,9 @@
+{
+  "name": "RunBickersDAO",
+  "symbol": "RBD",
+  "decimals": 18,
+  "description": "RunBickersDAO is a governance token for a decentralized running community.",
+  "website": "https://runbickersdao.example",
+  "status": "active",
+  "id": "runbickersdao"
+}
